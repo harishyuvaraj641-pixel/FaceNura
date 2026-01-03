@@ -23,6 +23,6 @@ You don’t need to install anything other than your **video drivers**.
 2. Extract the folder anywhere on your PC.  
 3. Run `DeepFaceLive.bat` (or `FaceNura.bat` if renamed) to start the application.  
 
-## Screenshots
-*(Optional: Add screenshots here by linking image files in your repo)*
+## important
+this is the advanced tuned version.some predefined libraries are taken from "hugging face".
 
