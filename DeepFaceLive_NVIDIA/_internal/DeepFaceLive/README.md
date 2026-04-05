@@ -231,9 +231,6 @@ Tina Shift
 </td></tr>
 
 <tr><td colspan=2 align="center">
-If you want a higher quality or better face match, you can train your own face model using <a href="https://github.com/iperov/DeepFaceLab">DeepFaceLab</a>
-
-Here is an <a href="https://www.tiktok.com/@arnoldschwarzneggar/video/6995538782204300545">example</a> of Arnold Schwarzneggar trained on a particular face and used in a video call. Read the FAQ for more information.
 
 </td></tr>
 
@@ -259,7 +256,7 @@ You can swap your face from a webcam or the face in the video using your own sin
 
 ## Face Animator
 
-There is also a Face Animator module in DeepFaceLive app. You can control a static face picture using video or your own face from the camera. The quality is not the best, and requires fine face matching and tuning parameters for every face pair, but enough for funny videos and memes or real-time streaming at 25 fps using 35 TFLOPS GPU.
+There is also a Face Animator module in FaceNura app. You can control a static face picture using video or your own face from the camera. The quality is not the best, and requires fine face matching and tuning parameters for every face pair, but enough for funny videos and memes or real-time streaming at 25 fps using 35 TFLOPS GPU.
 
 <img src="doc/face_animator_example.gif"></img>
 
