@@ -335,32 +335,7 @@ DirectX12 build : NVIDIA, AMD, Intel videocards.
 NVIDIA build : NVIDIA cards only, GT730 and higher. Works faster than DX12. FaceMerger can work also on AMD/Intel.
 </td></tr>
 <tr><td colspan=2 align="center">
-
-## Communication groups
-
-<tr><td align="right">
-<a href="https://discord.gg/rxa7h9M6rH">Discord</a>
-</td><td align="left">Official discord channel. English / Russian.</td></tr>
-
-</td></tr>
-<tr><td colspan=2 align="center">
-
-## How can I help the project?
-
-</td></tr>
-<tr><td colspan=2 align="center">
-Train your own face model by following the recommendations in the FAQ section and share it on Discord. If the model fits the quality, it will be added to the public library.
-</td></tr>
-<tr><td colspan=2 align="center">
-Register github account and push "Star" button.
-</td></tr>
-<tr><td colspan=2 align="center">
-</td></tr>
-<tr><td colspan=2 align="center">
-bitcoin:bc1qewl062v70rszulml3f0mjdjrys8uxdydw3v6rq
-</td></tr>
-<tr><td colspan=2 align="center">
-
+ign="center">
 
 <!--
     <a href="https://br-stone.online"><img src="doc/logo_barclay_stone.png"></img></a><a href="https://exmo.com"><img src="doc/logo_exmo.png"></img></a>
