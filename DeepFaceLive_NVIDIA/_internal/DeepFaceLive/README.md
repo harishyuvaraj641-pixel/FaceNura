@@ -335,7 +335,6 @@ DirectX12 build : NVIDIA, AMD, Intel videocards.
 NVIDIA build : NVIDIA cards only, GT730 and higher. Works faster than DX12. FaceMerger can work also on AMD/Intel.
 </td></tr>
 <tr><td colspan=2 align="center">
-ign="center">
 
 <!--
     <a href="https://br-stone.online"><img src="doc/logo_barclay_stone.png"></img></a><a href="https://exmo.com"><img src="doc/logo_exmo.png"></img></a>
